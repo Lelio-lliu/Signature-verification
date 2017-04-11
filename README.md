@@ -1,8 +1,8 @@
 # Signature-verification
 handwriting signature verification system
-Subject：Handwriting signature verification
-Data：4-11-2017
-Registrar：lliu
+# Subject：Handwriting signature verification
+# Data：4-11-2017
+# Registrar：lliu
 
 System Designing
 
